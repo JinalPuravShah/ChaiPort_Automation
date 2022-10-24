@@ -5,13 +5,10 @@
     <classes>
       <class name="com.ChaiPort.qa.testcases.CheckOutPageTest">
         <methods>
-          <include name="VerificationCreditCard"/>
-          <include name="VerificationCOD"/>
           <include name="SetUp"/>
           <include name="tearDown"/>
           <include name="VerificationBNPL"/>
           <include name="VerificationWallets"/>
-          <include name="check"/>
         </methods>
       </class> <!-- com.ChaiPort.qa.testcases.CheckOutPageTest -->
     </classes>
